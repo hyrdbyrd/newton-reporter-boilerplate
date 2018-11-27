@@ -6,6 +6,10 @@ npm run init-project
 # install html-reporter dependencies
 npm run init-package
 ```
+Или одной коммандой
+```sh
+npm run init-all
+```
 ## Скрипты
 Для начала подгрузить в отдельной вкладке терминала selenium-standalone
 ```sh
