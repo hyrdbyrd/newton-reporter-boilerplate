@@ -1,13 +1,6 @@
 # Интеграционные тесты
 ## Для подгрузги репозитория
 ```sh
-# install project dependencies
-npm run init-project
-# install html-reporter dependencies
-npm run init-package
-```
-Или одной коммандой
-```sh
 npm run init-all
 ```
 ## Скрипты

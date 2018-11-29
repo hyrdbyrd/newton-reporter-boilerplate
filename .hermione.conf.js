@@ -10,7 +10,7 @@ module.exports = {
         }
     },
     plugins: {
-        'html-reporter/hermione': {
+        'html-reporter/hermione-entry': {
             path: 'harry-report'
         }
     },

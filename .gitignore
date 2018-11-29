@@ -4,3 +4,4 @@ harry-report/*.min.*
 harry-report/*.js
 harry-report/*.html
 .eslintrc.json
+html-reporter
