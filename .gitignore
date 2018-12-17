@@ -1,7 +1,5 @@
-node_modules
 .DS_Store
-harry-report/*.min.*
-harry-report/*.js
-harry-report/*.html
-.eslintrc.json
-html-reporter
+node_modules
+newton-reportert/*.min.*
+newton-reportert/*.js
+newton-reportert/*.html
