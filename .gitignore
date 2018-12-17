@@ -1,5 +1,3 @@
 .DS_Store
 node_modules
-newton-reportert/*.min.*
-newton-reportert/*.js
-newton-reportert/*.html
+newton-reporter
