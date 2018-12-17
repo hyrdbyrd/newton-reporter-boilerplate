@@ -1,5 +1,5 @@
 # Интеграционные тесты
-## Для подгрузги репозитория
+## Инициализация репозитория (вместо npm install)
 ```sh
 npm run init-all
 ```
@@ -8,11 +8,11 @@ npm run init-all
 ```sh
 npm run selenium
 ```
-### Для запуска gui
+### Для запуска тестов gui
 ```sh
 npm run hermione-gui
 ```
-### Для запуска статики
+### Для запуска тестов статики
 ```sh
 npm run hermione-static
 ```
